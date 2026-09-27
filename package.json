@@ -1,0 +1,27 @@
+{
+  "name": "listado-precios-astro",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=22.19.0" },
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0",
+    "build": "astro build",
+    "preview": "astro preview --host 0.0.0.0",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "astro": "7.3.5",
+    "exceljs": "4.4.0",
+    "jszip": "3.10.2"
+  },
+  "overrides": {
+    "exceljs": {
+      "uuid": "11.1.1"
+    }
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.5",
+    "typescript": "5.9.3"
+  }
+}

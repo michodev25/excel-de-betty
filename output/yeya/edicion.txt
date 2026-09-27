@@ -1,0 +1,24 @@
+Flyer YEYA con QR
+
+La composición del pie se diseñó con la herramienta integrada image_gen, usando ambas imágenes adjuntas como referencias de edición. El montaje final conserva píxel por píxel la imagen original desde la cabecera hasta la dirección. El QR se insertó desde su archivo original a 250 × 250 px usando vecino más cercano, sin reconstruir sus módulos. Se conservó su fondo blanco propio, sin añadir marco blanco.
+
+Prompt utilizado:
+Use case: compositing.
+Asset type: finished Spanish vertical grocery-store promotional flyer, flat artwork, no mockup.
+Input images: Image 1 is the EDIT TARGET, the original navy blue/golden yellow YEYA flyer. Image 2 is the SUPPORTING INSERT: an existing functional QR code with navy modules and circular YEYA MAYORISTA logo. Copy the provided QR as faithfully as possible; never invent a different pattern.
+Primary request: Adapt image 1 into a polished finished flyer by integrating the exact QR from image 2 at a moderate readable size. Preserve the original identity and all original information.
+Composition: Preserve image 1's overall vertical composition, navy/gold colors, large YEYA header, its exact distinctive cutout letter shapes, rectangular gold outline and white floral brand ornament. Keep the smiling store employee, thumb pose, products, store backdrop, and three benefit ribbons. Keep the original large address strip across the whole width. Refine only the lower call-to-action area beneath that address: arrange the original closing message on the left in three or four balanced lines, and the square QR on the lower right at about 26 to 29 percent of the flyer width. Make enough footer room so no text is obscured and the QR is not too small. Integrate it neatly into the navy/gold styling without any extra outer white frame or decorative white card; retain the QR image's intrinsic white background and required clean quiet space. Do not crop any part of QR. Add a small gold label "ESCANEA AQUÍ" centered above it.
+Text to retain VERBATIM, correctly accented and completely legible:
+"YEYA"
+"VARIEDAD"
+"BUENOS PRECIOS"
+"ATENCIÓN DE CALIDAD"
+"CALLE 158 ENTRE 33 Y 33A"
+"¡VEN HOY Y LLÉVATE LO MEJOR PARA TU CASA!"
+Constraints: The big YEYA logo must remain exactly the same design, no replacement or font change. All listed content must remain accurate. Preserve the employee and groceries from the original. No invented contact details or claims. Retain the small original Made with AI badge. Crisp editorial artwork. Entire artwork visible, no clipping. Preserve originals as much as possible, especially logo and information.
+
+Validación:
+El logo, la escena, las tres ventajas y la dirección son idénticos al archivo original, comprobados comparando los píxeles.
+El QR insertado coincide exactamente con su fuente reducida con vecino más cercano.
+Se analizó el QR original y se comprobó su corrección Reed–Solomon. Destino: https://whatsapp.com/channel/0029VbDtH9R6GcGIIgeOlt0c
+No se navegó al destino ni se probó mediante cámara física.

@@ -1,0 +1,15 @@
+{
+  "output": "C:/Users/Micho/Desktop/programando/excel de betty/output/yeya/flyer-yeya-con-qr.png",
+  "dimensions": [
+    853,
+    1402
+  ],
+  "originalLogoAndInformationPixelIdentical": true,
+  "insertedQrMatchesSourceResizedWithNearestNeighbor": true,
+  "qrBox": {
+    "x": 563,
+    "y": 1135,
+    "width": 250,
+    "height": 250
+  }
+}

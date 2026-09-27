@@ -1,0 +1,96 @@
+{
+  "sourceFile": "Listado de precios 24-09-26.xlsx",
+  "sourceSheet": "24-09-2026",
+  "title": "LISTADO DE PRECIOS - PRODUCTOS MAYORISTAS",
+  "subtitle": "Productos tomados de PRODUCTOS MAYORISTA  | Precios y referencias",
+  "headers": [
+    "Producto",
+    "Formato",
+    "UM",
+    "Precio",
+    "Nombre de la empresa",
+    "Dirección",
+    "Red social",
+    "Observaciones"
+  ],
+  "columnWidths": [43.25, 17.75, 15, 12.5, 42.125, 44.5, 13.125, 27.625],
+  "fontFamily": "Arial",
+  "fontSizes": {
+    "title": 16,
+    "header": 14,
+    "body": 12
+  },
+  "colors": {
+    "darkGreen": "13501B",
+    "lightGreen": "D1E1D3",
+    "white": "FFFFFF",
+    "black": "000000",
+    "yellow": "FFFF00"
+  },
+  "priceNumberFormat": "\\$0.00",
+  "tableStyle": "TableStyleLight11",
+  "rowHeights": {
+    "title": 20.25,
+    "subtitle": 20.25,
+    "header": 24.6,
+    "category": 15,
+    "product": 15
+  },
+  "originalRowHeights": {
+    "4": 15.75,
+    "5": 18,
+    "12": 16.5,
+    "13": 16.5,
+    "14": 18.75,
+    "15": 15.75,
+    "26": 15.75,
+    "29": 15.75,
+    "67": 18,
+    "68": 15.75,
+    "69": 15.75,
+    "70": 15.75,
+    "72": 15.75,
+    "74": 19.5,
+    "75": 18,
+    "76": 18,
+    "79": 15.75,
+    "80": 17.25,
+    "81": 14.25,
+    "82": 15.75,
+    "83": 17.25,
+    "84": 17.25,
+    "85": 18,
+    "86": 17.25,
+    "87": 30,
+    "96": 30,
+    "104": 15.75,
+    "108": 30
+  },
+  "originalBlankPriceText": {
+    "26": "   ",
+    "115": "  "
+  },
+  "originalCategoryRows": {
+    "COMBUSTIBLE": 4,
+    "ACEITES Y GRASAS": 7,
+    "Carnes": 14,
+    "Embutidos": 28,
+    "Conservas": 35,
+    "Lácteos": 50,
+    "Huevos": 56,
+    "Pastas": 58,
+    "Granos  ": 64,
+    "Cereales": 71,
+    "Condimentos y saborizantes": 77,
+    "Bebidas e Infusiones": 95,
+    "Dulces y Confituras": 107,
+    "Aseo e Higiene Personal": 113,
+    "Hogar": 116
+  },
+  "highlightedProductSourceRows": [5, 6],
+  "originalCategoryExtraCells": {
+    "Carnes": {
+      "F": " Y "
+    }
+  }
+}

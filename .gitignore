@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+*.log
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
